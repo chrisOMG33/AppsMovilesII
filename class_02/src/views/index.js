@@ -1,4 +1,3 @@
-/* eslint-disable prettier/prettier */
 import React from 'react';
 		import { Image, ScrollView,  Text, View} from 'react-native';
 		import {style_01} from '../styles/style_01';
